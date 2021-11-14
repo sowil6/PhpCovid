@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "PHPWebCovid19", "PHPWebCovid19.phpproj", "{BB89FC15-3B3E-44A2-97FD-6400146B565E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB89FC15-3B3E-44A2-97FD-6400146B565E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB89FC15-3B3E-44A2-97FD-6400146B565E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB89FC15-3B3E-44A2-97FD-6400146B565E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB89FC15-3B3E-44A2-97FD-6400146B565E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C1E2D8-ED0A-4085-96B2-DBF280CDDADF}
+	EndGlobalSection
+EndGlobal
