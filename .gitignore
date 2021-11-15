@@ -363,6 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # visual studio
-PHPWebCovid19.sln
-PHPWebCovid19.phpproj.user
-PHPWebCovid19.phpproj
+*.sln
+*.phpproj.user
+*.phpproj
