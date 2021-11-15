@@ -12,9 +12,9 @@
 
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
-                                                                                                                  <?php
-      include("./includes/include_head.php");
-                                                                                                                  ?>
+ <?php
+ //     include("./includes/include_head.php");
+ ?>
 </head>
 <body expr:class=';"loading" + data:blog.mobileClass';>
 <div class="containerCeficc">
