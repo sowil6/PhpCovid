@@ -11,6 +11,7 @@
     <Folder Include="libreria\" />
     <Folder Include="manager\" />
     <Folder Include="Beans\" />
+    <Folder Include="html\" />
     <Folder Include="Scripts\" />
     <Folder Include="Styles\" />
     <Folder Include="vista\" />
