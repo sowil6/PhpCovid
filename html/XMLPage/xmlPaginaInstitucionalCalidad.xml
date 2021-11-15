@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Noticias>
+  <Noticia>
+    <Codigo>2114</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>calidad.jpg</foto>
+    <Titulo>SISTEMA DE CALIDAD</Titulo>
+    <introduccionNoticia>Contribución a la sociedad a través de la realización de los servicios que satisfagan las expectativas y necesidades de la comunidad, y todos aquellos que necesiten fortalecer sus estándares, brindando los máximos beneficios con los menores riesgos posibles.</introduccionNoticia>
+    <mensajeNoticia>&lt;br&gt;</mensajeNoticia>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>11</autor>
+  </Noticia>
+</Noticias>

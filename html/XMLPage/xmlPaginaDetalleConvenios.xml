@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Noticias>
+  <Noticia>
+    <Codigo>2180</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>el rosario1.jpeg</foto>
+    <Titulo>Ese Hospital del Rosario</Titulo>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2181</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>el rosario6.jpeg</foto>
+    <Titulo>asasas</Titulo>
+    <introduccionNoticia>sasasa</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2183</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario1.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2184</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario2.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2185</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario3.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2186</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario4.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2187</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario6.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2188</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario7.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2189</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario8.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2190</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario9.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2191</Codigo>
+    <DetalleCodigo>2126</DetalleCodigo>
+    <foto>el rosario10.jpeg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detalleConvenio</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>6</autor>
+  </Noticia>
+</Noticias>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Noticias>
+  <Noticia>
+    <Codigo>1022</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>slide1.jpg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>4</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>1023</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>slider2.jpg</foto>
+    <Titulo/>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>4</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2052</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>slider3.jpg</foto>
+    <Titulo>Institución para el Trabajo y el Desarrollo Humano&lt;br&gt;</Titulo>
+    <introduccionNoticia>Damos una respuesta abierta a las expectativas laborales de nuestro entorno social y &lt;br&gt;</introduccionNoticia>
+    <mensajeNoticia>Contamos con un conjunto de recursos gestionados con tecnicas de calidad total.</mensajeNoticia>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>4</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2165</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>slide-corporate-1.jpg</foto>
+    <Titulo>PROGRAMAS TECNICOS LABORALES</Titulo>
+    <introduccionNoticia>AVALADOS POR EL MINISTERIO DE EDUCACION NACIONAL</introduccionNoticia>
+    <mensajeNoticia>Lic.de Funcionamiento mediante Res. 4679 del 2017 de la Secretaria de Educacion Distrital de Cartgaena de Indias y Res. 01-235 del 2013 de la Secretaria de Educacion de Bolívar</mensajeNoticia>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>4</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2166</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>homero.gif</foto>
+    <Titulo>INGLES UNIVERSITARIO</Titulo>
+    <introduccionNoticia>British Council, con reconocimiento oficial por&lt;br&gt;el Ministerio de Educación Nacional</introduccionNoticia>
+    <mensajeNoticia>Supera el examen de suficiencia institucional, diagnóstica Aptis (multinivel, desde A1 hasta C, la versión Advanced hasta C2), de&lt;br&gt;inglés general, que ya se realiza en más de 100 países</mensajeNoticia>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>4</autor>
+  </Noticia>
+</Noticias>

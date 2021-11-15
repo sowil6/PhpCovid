@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Noticias>
+  <Noticia>
+    <Codigo>2169</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>foto1.jpeg</foto>
+    <Titulo>prueba</Titulo>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>12</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2170</Codigo>
+    <DetalleCodigo>0</DetalleCodigo>
+    <foto>foto1.jpeg</foto>
+    <Titulo>prueba</Titulo>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile/>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>12</autor>
+  </Noticia>
+</Noticias>

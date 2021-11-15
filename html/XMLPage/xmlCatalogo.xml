@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Noticias>
+  <Noticia>
+    <Codigo>2100</Codigo>
+    <DetalleCodigo>2094</DetalleCodigo>
+    <foto>maquina_Electrica_Rotativas.jpg</foto>
+    <Titulo/>
+    <introduccionNoticia>ELECTRICIDAD INDUSTRIAL </introduccionNoticia>
+    <mensajeNoticia>&lt;br&gt;</mensajeNoticia>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2115</Codigo>
+    <DetalleCodigo>1038</DetalleCodigo>
+    <foto>embarazo-precoz-clinica-internacional.jpg</foto>
+    <Titulo>Nivel B1&lt;br&gt;</Titulo>
+    <introduccionNoticia>&lt;p&gt;&lt;b&gt;Módulos: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;3B  48 Horas (1 mes)&lt;/p&gt;&lt;p&gt;4A  48 Horas (1 mes)&lt;br&gt;&lt;/p&gt;&lt;p&gt;4B  48 Horas (1 mes)&lt;/p&gt;&lt;p&gt;4C  48 Horas (1 mes)&lt;br&gt;&lt;/p&gt;</introduccionNoticia>
+    <mensajeNoticia>&lt;b&gt;MATRICULA&lt;/b&gt;&lt;br&gt;&lt;p&gt;3B= $60.000&lt;/p&gt;&lt;p&gt;4A= $60.000&lt;br&gt;&lt;/p&gt;&lt;p&gt;4B= $60.000&lt;/p&gt;&lt;p&gt;4C= $60.000&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;INTENSIDAD DE HORA&lt;/b&gt;&lt;br&gt;1 VEZ SEMANA&lt;br&gt;4 HORAS (INCLUYE TRABAJOS VIRTUALES PARA CUMPLIR NUMERO DE HORAS AL MES&lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Costo Mensual &lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;3B= $160.000&lt;/p&gt;&lt;p&gt;4A= $160.000&lt;br&gt;&lt;/p&gt;&lt;p&gt;4B= $160.000&lt;/p&gt;&lt;p&gt;4C= $160.000&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;2 VECES X SEMANA&lt;/b&gt;&lt;br&gt;2 HORAS (INCLUYE TRABAJOS VIRTUALES PARA CUMPLIR NUMERO DE HORAS AL MES&lt;br&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;Costo Mensual&lt;/i&gt; &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;3B= $180.000&lt;/p&gt;&lt;p&gt;4A= $180.000&lt;br&gt;&lt;/p&gt;&lt;p&gt;4B= $180.000&lt;/p&gt;&lt;p&gt;4C= $180.000&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;3 VECES X SEMANA&lt;/b&gt;&lt;br&gt;6 HORAS (INCLUYE TRABAJOS VIRTUALES PARA CUMPLIR NUMERO DE HORAS AL MES&lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Costo Mensual&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;3B= $240.000&lt;br&gt;&lt;/p&gt;&lt;p&gt;4A= $240.000&lt;/p&gt;&lt;p&gt;4B= $240.000&lt;/p&gt;&lt;p&gt;4C= $240.000&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;SABADOS&lt;/b&gt;&lt;br&gt;4 HORAS (INCLUYE TRABAJOS VIRTUALES PARA CUMPLIR NUMERO DE HORAS AL MES&lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Costo Mensual &lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;3B= $160.000&lt;br&gt;&lt;/p&gt;&lt;p&gt;4A= $160.000&lt;/p&gt;&lt;p&gt;4B= $160.000&lt;/p&gt;&lt;p&gt;4C= $160.000&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;PROGRAMA VIRTUAL ON LINE&lt;/b&gt;&lt;br&gt;SE ENTREGA MATERIAL DE FORMACION&lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Costo Mensual &lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;3B= $160.000&lt;br&gt;&lt;/p&gt;&lt;p&gt;4A= $160.000&lt;/p&gt;&lt;p&gt;4B= $160.000&lt;/p&gt;&lt;p&gt;4C= $160.000&lt;br&gt;&lt;/p&gt;&lt;br&gt;</mensajeNoticia>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2117</Codigo>
+    <DetalleCodigo>2115</DetalleCodigo>
+    <foto>montacarga1.jpg</foto>
+    <Titulo>Instalaciones</Titulo>
+    <introduccionNoticia>Nuestras instalaciones&lt;br&gt;</introduccionNoticia>
+    <mensajeNoticia>Comodas instalaciones&lt;br&gt;</mensajeNoticia>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2141</Codigo>
+    <DetalleCodigo>2118</DetalleCodigo>
+    <foto>panelsolar.jpg</foto>
+    <Titulo/>
+    <introduccionNoticia>ENERGIA FOTOVOLTAICA</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2156</Codigo>
+    <DetalleCodigo>2155</DetalleCodigo>
+    <foto>formularionuevoinscripcionceficc2019.pdf</foto>
+    <Titulo>FORMULARIO DE INSCRIPCION&lt;br&gt;</Titulo>
+    <introduccionNoticia>Formato unico de inscrpcion</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2157</Codigo>
+    <DetalleCodigo>2155</DetalleCodigo>
+    <foto>modulos de formacion ingles2019.pdf</foto>
+    <Titulo>MÓDULOS DE FORMACIÓN INGLES UNIVERSITARIO&lt;br&gt;</Titulo>
+    <introduccionNoticia>Descarga el documento de los módulos de Formación de Ingles Universitario, Marco Común Europeo&lt;br&gt;</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2158</Codigo>
+    <DetalleCodigo>2094</DetalleCodigo>
+    <foto>microcurriculomontajeinstalacioneselectricasindustriales.pdf</foto>
+    <Titulo>MICROCURRICULO</Titulo>
+    <introduccionNoticia>MicroCurriculo de Montaje de Instalaciones Electricas Industriales&lt;br&gt;</introduccionNoticia>
+    <mensajeNoticia>ELECTRICIDAD BASICA E INSTALACIONES ELECTRICAS:&lt;br&gt;1.    NOCIONES Y CONCEPTOS BÁSICOS DE ELECTRICIDAD &lt;br&gt;2.    NORMAS DE SEGURIDAD EN LAS INSTALACIONES ELÉCTRICAS&lt;br&gt;3.    HERRAMIENTAS BÁSICAS DEL ELECTRICISTA&lt;br&gt;4.    CONDUCTORES ELÉCTRICOS&lt;br&gt;a)    EMPALMES DE CONDUCTORES ELÉCTRICOS&lt;br&gt;b)    EMPALMES ELÉCTRICOS DE PROLONGACIÓN Y DERIVACIÓN&lt;br&gt;5.    ACCESORIOS ELÉCTRICOS&lt;br&gt;6.    LÁMPARAS INCANDESCENTES&lt;br&gt;7.    ESQUEMAS ELÉCTRICOS&lt;br&gt;a)    CIRCUITOS DE LÁMPARAS EN SERIE&lt;br&gt;b)    CIRCUITOS DE LÁMPARAS EN PARALELO&lt;br&gt;c)    CIRCUITOS DE CONMUTACIÓN&lt;br&gt;8.    LÁMPARAS FLUORESCENTES&lt;br&gt;9.    LÁMPARAS FLUORESCENTES CIRCULARES&lt;br&gt;10.    DISPOSITIVOS DE LLAMADA&lt;br&gt;11.    INSTALACIÓN DE LÁMPARAS INCANDESCENTES CONTROLADAS POR&lt;br&gt;a)    INTERRUPTORES EN CONMUTACIÓN E INTERRUPTOR SIMPLE.&lt;br&gt;     &lt;br&gt;MOTORES ELECTRICOS: &lt;br&gt;    &lt;br&gt;              &lt;br&gt;1.    OBJETIVO GENERAL &lt;br&gt;2.    INTRODUCCION &lt;br&gt;3.    LEYES ELECTRICAS BASICA &lt;br&gt;a)    CONCEPTOS GENERALES &lt;br&gt;b)    MOTORES DE CORRIENTES&lt;br&gt;c)    CONTINUO&lt;br&gt;d)    MOTORES DE CORRIENTE ALTERNA &lt;br&gt;e)    MANTENIMIENTO DE MOTORES ELECTRICOS &lt;br&gt;4.    CARACTERISTICAS TECNICAS. DATOS DE PLACA DE MOTORES&lt;br&gt;5.    SIMBOLOGIA ELECTRICA MENA AMERICANA&lt;br&gt;6.    SIMBOLOGIA DIN EUROPEA&lt;br&gt;7.    CIRCUITOS DE CONTROL A DOS HILOS&lt;br&gt;8.    CIRCUITO DE CONTROL A TRES HILOS&lt;br&gt;9.    CIRCUITO DE CONTROL EN SECUNDARIA&lt;br&gt;10.    CUIRCUITO DE CONTROL DE FREANDO DE MOTORES ELECTRICOS&lt;br&gt;11.    CIRCUITOS DE CONTROL Y DE FUERZA DE ARRANCADORES REVERSIBLE&lt;br&gt;12.    ARRANCADORES A TENSION REDUCIDA&lt;br&gt;13.    ARRANCADORES ELECTRONICOS O DE ESTADO SOLIDO&lt;br&gt;14.    VARIADORES AJSTABLE DE FRECUENCIA&lt;br&gt;15.    P.L.C CONTROLADORES LOGICOS PROGRAMABLES&lt;br&gt;16.    MOTORES DE POLO CONSECUENTES&lt;br&gt;17.    MOTORES DE INDUCCION DE ROTOR Y DEVANADO&lt;br&gt;18.    ARRANACADOR ICE INTELIGENTE TELEMECANIQUE. TE SYS U.&lt;br&gt;19.    TIMERS. REVELADORES DE RETARDO DE TIEMPO.&lt;br&gt;20.    MULTIMETRO&lt;br&gt;21.    TABLAS DE CONSULTAS&lt;br&gt;&lt;br&gt;&lt;div&gt;MONTAJE DE INSTALACIONES ELECTRICAS INDUSTRIALES:  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1.    PRINCIPIOS BASICOS DE LA ELECTRICIDAD&lt;br&gt;1.1    LEY DE OHM &lt;br&gt;1.2    LEY DE WATT&lt;br&gt;1.3    LEY DE KIRCHOFF&lt;br&gt;1.4    EJERCICIOS PRACTICOS APLIACCIONES &lt;br&gt;2.    METRODOLOGIA &lt;br&gt;2.1    MANEJO DEL METRO&lt;br&gt;2.2    CONVECCCIONES DE UNIDADES: PULGADAS, CENTIMETROS.PIE Y METRO ETC.&lt;br&gt;2.3    SISTEMAS DE UNIDADES INTERNACIONALES &lt;br&gt;2.4     EJERCICIOS PRACTICOS Y APLICACIONES &lt;br&gt;3.    CANALIZACIONES DE CONDUCTORES ELECTRICOS (TUBERIAS CONDUIT)&lt;br&gt;3.1    DEFICIONES,APLICACIONES.CLASES,NORMATIVIDAD,METODODE FABRICACION,Y MONTAJE&lt;br&gt;3.2    P.V.C&lt;br&gt;3.3    E.M.T&lt;br&gt;3.4    E.R.M.C-2&lt;br&gt;3.5    I.M.C&lt;br&gt;3.6    E.I.M.C-2&lt;br&gt;4.    CURVADO DE TUBERIA&lt;br&gt;4.1    HERRAMIENTAS&lt;br&gt;4.2    CALCULO DE CURVADOS&lt;br&gt;4.3    APLICACIONES &lt;br&gt;4.4    MONTAJE E INSTALACIONES&lt;br&gt;4.5    MANEJO DEL NIVEL,TORPEDO Y PLOMADA &lt;br&gt;4.6    HERRAJES.&lt;br&gt;5.    BLINDO BARRAS &lt;br&gt;5.1    APLICACIONES &lt;br&gt;5.2    MONTAJE E INSTALACIONES &lt;br&gt;5.3    HERRAMIENTAS Y HERRAJES &lt;br&gt;5.4    MONTAJE DE BLINDO BARRAS &lt;br&gt;6.    BANDEJA PORTA CLAVE &lt;br&gt;6.1    CLASIFICACION &lt;br&gt;6.2    APLICACIONES &lt;br&gt;6.3    MONTAJE E INSTALCIONES &lt;br&gt;6.4    HERRAMIENTAS Y HERRAJES &lt;br&gt;7.    CALCAMOS &lt;br&gt;7.1    CLASIFICACION &lt;br&gt;7.2    DUCTOS SUBTERRANEOS &lt;br&gt;&lt;br&gt;7.3    REGISTROS&lt;br&gt;8.    CLASIFICACION DE LOS NIVELES DE TENSION &lt;br&gt;9.    CONDUCTORES ELECTRICOS&lt;br&gt;9.1    CLASIFICACION&lt;br&gt;9.2    APLICACIONES &lt;br&gt;9.3    CODIGO DE COLORES PARA CONDUCTORES DE C.A Y C.C &lt;br&gt;9.4    MONTAJE E INSTALCIONES &lt;br&gt;10.    CAJAS Y TABLEROS&lt;br&gt;10.1    CLASIFICACIONES &lt;br&gt;10.2    APLICACIONES &lt;br&gt;10.3    TECNICA DE MONTAJE E INSTALACIONES &lt;br&gt;11.    SISTEMA DE PUESTA A TIERRA&lt;br&gt;11.1    APLIACACION &lt;br&gt;11.2    INSTALACIONES &lt;br&gt;11.3    MANTENIMIENTO&lt;br&gt;11.4    HERRAMIENTAS UTILIZADAS E INSTALCIONES DE POLO TIERRA&lt;br&gt;12.    SIMBOLOGIA Y SEÑALIZACIONES &lt;br&gt;12.1    APLICACIÓN &lt;br&gt;12.2    CLASIFICACION &lt;br&gt;13.    MEDIDAS DE PROTECCION PARA TRABAJOS ELECTRICOS&lt;br&gt;13.1    CLASIFICACION &lt;br&gt;13.2    APLICACIÓN &lt;br&gt;13.3    EJEMPLOS PRACTICOS.&lt;br&gt;14.    HERRAMIENTAS MANUALES &lt;br&gt;14.1    CLASIFICACION &lt;br&gt;14.2    APLICACIONES &lt;br&gt;15.    HERRAMIENTAS ELECTRICAS.&lt;br&gt;15.1    CLASIFICACION&lt;br&gt;15.2    APLICACIÓN &lt;br&gt;16.    NIVEL &lt;br&gt;16.1    CLASIFICACION &lt;br&gt;16.2    APLICACIONES &lt;br&gt;16.3    COMO ESCOGER EL NIVEL APROPIADO.&lt;br&gt;&lt;br&gt;REDES AEREAS Y SUBTERRANEAS DE MEDIA Y BAJA TENSION &lt;br&gt;&lt;br&gt;&lt;br&gt;1.    POSTES &lt;br&gt;2.    TAMAÑO Y PESO &lt;br&gt;3.    CLASE DE POSTES&lt;br&gt;4.    ELEMENTOS QUE UTILIZAN &lt;br&gt;5.    TRANSMISION&lt;br&gt;6.    SECCIONADORES &lt;br&gt;7.    TIPOS DE SECCIONADORES &lt;br&gt;8.    CONDUCTORES &lt;br&gt;9.    TIPOS DE CONDUCTORES &lt;br&gt;10.    ELEMENTOS DE PROTECCIONES &lt;br&gt;11.    ELEMENTOS DE MANIOBRAS &lt;br&gt;12.    FRECUENCIA&lt;br&gt;13.    SUBESTACIONES ELECTRICAS &lt;br&gt;14.    TIPOS DE SUBESTACIONES &lt;br&gt;15.    TRANSFORMADORES &lt;br&gt;16.    TIPOS DE FRANSFORMADORES &lt;br&gt;17.    INSTRUMENTOS ELECTRICOS EN SUBESTACIONES &lt;br&gt;&lt;br&gt;     &lt;/div&gt;&lt;br&gt;</mensajeNoticia>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2159</Codigo>
+    <DetalleCodigo>2155</DetalleCodigo>
+    <foto>microcurriculomontajeinstalacioneselectricasindustriales.pdf</foto>
+    <Titulo>MicroCurriculo de Montaje de Instalaciones Electricas Industriales</Titulo>
+    <introduccionNoticia>EDUCACION VIRTUAL Y A DISTANCIA</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2160</Codigo>
+    <DetalleCodigo>2155</DetalleCodigo>
+    <foto>costosacademicosconvenioamorabolivar.pdf</foto>
+    <Titulo>Costos Académicos Convenio Amor a Bolívar</Titulo>
+    <introduccionNoticia>Carreras Técnicas Laborales en convenio CEFICC con el Colegio Amor a Bolívar</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2161</Codigo>
+    <DetalleCodigo>2155</DetalleCodigo>
+    <foto>brochureelectricidad.pdf</foto>
+    <Titulo>BROCHUR ELECTRICIDAD INDUSTRIAL</Titulo>
+    <introduccionNoticia>Registro de Programa de Electricidad Industrial Resolución # 45-68 otorgada por la Secretaria de Educación Distrital de Cartagena de Indias</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2162</Codigo>
+    <DetalleCodigo>2094</DetalleCodigo>
+    <foto>brochureelectricidad.pdf</foto>
+    <Titulo>BROCHUR ELECTRICIDAD INDUSTRIAL</Titulo>
+    <introduccionNoticia>Registro de Programa de Electricidad Industrial Resolución # 45-68 otorgada por la Secretaria de Educación Distrital de Cartagena de Indias</introduccionNoticia>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2164</Codigo>
+    <DetalleCodigo>2115</DetalleCodigo>
+    <foto>montacarga2.jpg</foto>
+    <Titulo>Tecnico Laboral en Seguridad Ocupacional</Titulo>
+    <introduccionNoticia/>
+    <mensajeNoticia/>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2177</Codigo>
+    <DetalleCodigo>1038</DetalleCodigo>
+    <foto>liderazgo.jpg</foto>
+    <Titulo>CSASA</Titulo>
+    <introduccionNoticia>ASASSAD</introduccionNoticia>
+    <mensajeNoticia>SADSADASDA</mensajeNoticia>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+  <Noticia>
+    <Codigo>2178</Codigo>
+    <DetalleCodigo>1038</DetalleCodigo>
+    <foto>logosmall2.png</foto>
+    <Titulo>sasa</Titulo>
+    <introduccionNoticia>sasa</introduccionNoticia>
+    <mensajeNoticia>sasas</mensajeNoticia>
+    <urlFile>detallecatalogo</urlFile>
+    <fecha>Maxico D.F. - Editorial Grijalbo</fecha>
+    <autor>2</autor>
+  </Noticia>
+</Noticias>
