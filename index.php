@@ -1,13 +1,19 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>PruebaAngular</title>
-  <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-</head>
-<body>
-  Hola Mundo php
-</body>
-</html>
+<?php 
+session_start();
+ define("RUTA_BASE", dirname(realpath(__FILE__))."/");
+//echo "en index.php " .RUTA_BASE;
+include "libreria/core.php";
+//echo "en index la ruta de model esss" .RUTA_MODELO."manager";
+/*	 
+
+	if (!isset($_SESSION['username'])) {
+		$_SESSION['msg'] = "You must log in first";
+		header('location: login');
+	}
+if (isset($_GET['logout'])) {
+		
+		session_destroy();
+		unset($_SESSION['username']);
+		header("location: /");
+	}/**/
+ 

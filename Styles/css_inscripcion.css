@@ -1,0 +1,716 @@
+/*EstilosNoticia*/
+
+/*pagina INSCRIPCION*/
+.contenedorAntesMenu{
+display: none;
+
+}
+.contentUnaColumna{
+	margin:0;
+	padding: 0;
+	background-color:#fff;
+}
+.container{
+	/*background:red;*/
+	}
+.contenedor_consulta{
+margin:0;
+width: 98%;
+/*	width:90%;
+	text-align: right;
+
+box-shadow: 4px 4px 4px 4px  #747171;*/
+
+	}
+.row{
+	/*background-color:yellow;*/
+	margin: 0 auto;
+}
+.group-row-pass{
+	/*background-color:yellow;*/
+	margin: 0;
+	padding: 0;
+	border:1px solid #000;
+	margin-top: 1px;
+	padding:5px;
+	padding-top: 1px;
+	vertical-align:central;
+border-radius:10px;
+width: 100%;
+margin: 0 auto;
+margin-bottom:5px;
+	}
+.group-row-consulta{
+margin: 0;
+	padding: 0;
+	border:1px solid #000;
+	padding:5px;
+	padding-top: 1px;
+border-radius:10px;
+margin: 0 auto;
+margin-bottom:2px;
+
+margin-top: 0px;
+z-index: 2;
+background-color: #fff;
+
+}
+
+.leyenda_mensaje{
+	margin: 0 auto;
+	padding-left: 1%;
+/*	border:1px solid #000;*/
+	font-size:14px;	
+	background-color: #fff;
+	width: 70%;
+	border-radius: 5px;
+}
+
+.row_form_bajo{
+	padding: 0;
+	margin:0 auto;
+	right:0;
+	left: 0;
+/*overflow: scroll;
+height: 500px;*/
+}
+
+.campo_obligatorio{
+position: absolute;
+margin-top: 0px;
+font-size: 1rem;
+
+}
+
+.icon-asterisco{
+	color:rgba(251,1,32,1.00);
+	font-size:6px;
+	right: 2px;
+
+	}
+
+.group-row{
+	padding:5px;
+	background:#F5F5F5;
+	width: 100%;
+	border:1px solid #000;
+	border-radius:10px;
+	box-shadow:5px 5px 3px #808080;
+	margin:0 auto;
+	
+	/*	display:none;
+*/	}
+.tablaResult{
+overflow: scroll;
+height: 500px;
+	
+}
+input{
+	/*border-bottom:solid 1px #030303;
+	background:rgba(202,244,243,0.7);
+*/
+	
+	}
+.input-group{
+	padding-bottom:2px;
+
+	/*background-color:orange;*/
+z-index:1;
+
+	}	
+
+
+.formBox{
+	/*background:red;*/
+	}
+.titulo_inscripcion{
+/*background-color: red;*/
+
+}
+.la_titulo {
+	width:100%;
+	top:0;
+	/*border: solid 1px #000
+	background-color: red;*/
+	}
+.la_titulo h3{
+	margin:0;
+	padding: 0;
+	width:100%;
+	top:0;
+	
+	/*background-color: red;*/
+	}
+
+
+
+.la_nombre_usuario{
+/*	padding-top:14px;
+*/	width:auto;
+	}
+.nombre_usuario{
+	width:30%;
+	float: right;
+	margin-right: 15px;
+	display:inline-block;
+	}	
+.la_documento{
+/*	padding-top:14px;
+*/	width:auto;
+	}
+.documento{
+	/*width:30%;
+	float: right;*/
+/*		margin-right: 15px;
+display:inline-block;*/
+	}
+.documentoConsulta{
+/*	width:30%;
+	float: right;
+	margin-right: 15px;
+	display:inline-block;*/
+	}	
+.la_password{
+	/*	width:auto;
+padding-top:14px;
+	margin-left:-25%;
+*/	}
+.password{
+/*	width:30%;
+float: right;
+margin-right: 15px;*/
+	}
+.la_rep_password{
+/*	width:auto;
+	padding-top:14px;
+	margin-left:-25%;
+*/	}
+.rep_password{
+	
+	}
+.box_inscripciones{
+width:100%;
+/*background-color: greenyellow;*/
+        }
+.inscripciones{
+	margin:0;
+	padding: 0;
+/*margin-top:-20px;*/
+width:100%;
+/*background-color: red;*/
+	}
+
+
+.fieldset_inscripciones{width:100%;
+
+}
+
+.esquina_round{
+padding:0;
+margin:0;
+border: 1px solid #DCDADA; 
+border-radius:5px; 
+
+margin-bottom: 2px;
+background-color:#fff;
+width: 100%;
+
+}
+.background-will{
+	
+	width: 100%;
+	background-color: #E7E9E9;
+	border-radius:5px 5px 0px 0px; 
+}
+
+.text-primary{
+	color:rgba(6,62,241,1.00);
+	
+}
+label{
+	padding-left: 10px;
+}
+
+.Leyenda_inscripciones{
+	margin: 0;
+	padding: 0;
+	font-size:13px;	
+	padding-top: 10px;
+	margin-top:-11px;
+	width:auto;
+	/*background-color: green;*/
+	}
+
+.div_btn_continuar{
+	margin-top: 3%;
+}
+
+.btn-continuar{
+	
+}
+
+.programa{
+width: 99%
+	
+}
+ .siEsEstudiante{
+	color:red;
+margin-top: 35px;
+
+	/*margin-bottom: 5%;/*
+	}
+
+.la_sexo{
+/*	padding-left:2%;*/
+	
+	}
+.jornada{
+/*background-color: green;
+font-size: 7px;*/
+}
+.group-jornada{
+	}
+
+.la_jornada{
+/*	vertical-align: top;
+	
+padding:0;*/
+
+}
+
+
+.sexo{
+/*font-size: 7px;
+vertical-align: top;*/
+	}
+	
+.la_fecha{
+	font-size:1rem;
+
+	}
+.fecha{
+	width:90%;
+	vertical-align: top;
+	}
+.group-fecha-inscripcion{
+	top: 1px;
+	float: right;
+
+font-size: 1rem;
+}
+.la_nombre{
+	/*width:auto;
+	margin-left:-18%;*/
+	}	
+.nombre{
+	/*width:auto;*/
+	}
+
+.la_lugarNacido{
+	/*width:auto;*/
+	}
+.lugarNacido{
+/*	width:auto;*/
+	
+	}
+
+.la_ciudad{
+	/*width:auto;*/
+	
+	
+	}
+.ciudad{
+	/*width:auto;
+		text-align-last: left;*/
+	}
+
+.la_edad{
+
+	}
+.edad{
+	/*width:65%;
+	text-align-last: left;*/
+	}
+
+
+.la_direccion{
+	/*width:auto;*/
+	}
+.direccion{
+	/*width:90%;
+	margin-right:-70%;*/
+	}
+
+.la_fechaNacido{
+	width:auto;
+	background:red;
+	}
+.fechaNacido{
+	/*width:auto;*/
+	}
+
+.la_emil{
+/*	width:35%;*/
+	}
+.email{
+	/*width:72%;
+		margin-right:-72%;*/
+	}
+.div_Telefono{
+	/*width:100%;
+	margin-right:15%;*/
+}
+
+.la_telFijo{
+/*	width:27%;
+	margin-left: 0;*/
+	}
+.telFijo{
+/*	width:23%;*/
+	}
+.la_telCelular{
+	/*width:20%;
+	margin-left:4%;*/
+	}
+.telCelular{
+/*	width:23%;
+	text-align-last: left;
+	margin-left:-85%;*/
+	}
+
+
+.la_empresa{
+	/*width:18%;*/
+	}
+.empresa{
+	/*width:80%;*/
+	}
+
+.la_cargo{
+	/*width:13%;*/
+	}
+.cargo{
+	/*width:85%;*/
+	}
+.la_dirEmpresa{
+	/*width:auto;*/
+	}
+.dirEmpresa{
+	/*width:85%;
+	margin-right:-60%;*/
+	}
+.la_telEmpressa{ 
+	/*width:auto;*/
+	}
+.telEmpresa{
+/*	width:25%;
+	margin-left:-85%;*/
+	}
+.la_mensaje{
+	/*position:absolute;
+	top:-12px;right:-12px*/
+	color:rgba(248,3,34,1.00);
+	}
+.checkGood{
+	font-size:25px;
+	color:rgba(3,244,23,1.00)
+	}
+.checkBad{
+	font-size:25px;
+	color:rgba(245,3,191,1.00)
+	}
+.iconnewInscripcion{
+	
+	color:rgba(3,85,7,1.00);
+	font-size:20px;}
+
+/*FIN PAGINA INSCRIPCION*/
+
+/*ESTILOS PAGINA CONSULTA INSCRITOS*/
+
+.observacion{
+	width:25%;
+	float:right;
+	}
+
+.izq{
+text-align: left;
+	
+}
+.der{
+
+text-align: right;
+float:right;
+}
+
+
+.row_form_arriba{
+
+}
+
+
+.col-sm-2{
+	/*background-color: yellow;*/
+	
+}
+.col-sm-3{
+/*	background-color: blue;*/
+}
+.col-sm-4{
+/*	background:green;*/
+	}
+.col-sm-5{
+	/*background-color: red;*/
+
+}
+.col-sm-6{
+/*background-color: orange;*/
+
+}
+.col-sm-8{
+/*	background:red;*/
+	}
+
+
+
+
+fieldset {
+font-size:14px;
+/*   margin-left:-22px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+ padding-bottom: 0.125em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;*/
+ 
+/*  border: 2px groove (internal value);
+*/}
+.field_obser{
+	width: 98%;
+	border:1px solid #000;
+	margin-top: 1%;
+	border-radius:10px;
+}
+.observacion{
+width: 100%;		
+border-radius:10px;
+padding:4px;
+}
+.la_estado_estudiante{
+/*		margin-left:5%;
+*/	}
+.estado_estudiante{
+/*width:70%;
+margin-left:5%*/	
+
+}
+.div_estado{
+	/*background:rgba(45,180,215,1.00);
+	border-radius:10px;
+	box-shadow:5px 5px 3px #808080;
+	border:1px solid #000;
+	margin-left:5%	;
+	padding-bottom:5px;*/
+	}
+
+.div_estado_certificacion{
+	/*background:rgba(213,115,48,1.00);
+	border-radius:10px;
+	box-shadow:5px 5px 3px #808080;
+	border:1px solid #000;
+	margin-left:5%	;
+	padding: 5px;*/
+
+}	
+
+.contenedor_consulta{
+padding-bottom: 20px;	
+}
+.tabla_consultaInscritos {
+position: absolute;
+width: 94%;
+right: 0;
+overflow: scroll;
+height: 500px;
+
+}
+
+.table {
+	/*
+	
+	top:0px;
+	margin-left: 3*%;
+	*/
+	background:#DDD8D8;
+	box-shadow:5px 5px 3px #808080;
+}
+.form-consulta{
+width: 99%;	
+padding:10px;
+	background:#F5F5F5;
+
+	border:1px solid #000;
+	box-shadow:5px 5px 3px #808080;
+	top:10px;
+	margin-left: -15px;
+}
+.btn {
+	padding: 0;
+	margin: 0;
+/*	padding: 10px;
+*/	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+	/*margin: 2%;*/
+}
+
+
+
+/*GLOBO MENSAJE*/
+.contenedor-balloon{
+/*	background-color:red;
+*/	position:fixed;
+	width:300px;
+	height:50px;
+	right:10px;
+	top:10%;
+	z-index:3;
+       
+          /*display: none;*/
+	}
+.balloon{
+	padding:2px;
+	/*position:absolute;*/
+	width:100%;
+	background:rgba(239,226,49,1.00);
+        font-family: 'Indie Flower', cursive;
+        font-size: 0.8em;
+	word-wrap:break-word;
+	text-align:left;
+	/*z-index:2;*/
+}
+.modal-header-balloon{
+    background:rgba(239,226,49,1.00); 
+    float: right;
+    
+}
+.triangulo-balloon{
+    display: none;
+position:absolute;
+width: 0;
+border-left: 15px solid transparent;
+border-right: 8px solid transparent;
+border-bottom: 46px solid rgba(239,226,49,1.00);
+left:-25px;
+transform:rotate(-120deg);
+	z-index:1;
+	}
+
+ /*Loading page*/
+.loadingpage {
+	width:20%;
+	height:20%;
+	margin:0 auto;
+}
+.loadingpage img{
+	width:100%;
+	height:100%;
+}
+/*Loading page*/
+
+
+
+/*FIN GLOBO MENSAJE*/
+/*CONSULTAR*/
+.comboconsulta_inscripcion{
+	
+	display:inline-block;}
+/*FIN CONSULTAR*/
+ 
+ /*INICIO SCREEN ENTRE 800 Y 999 AZUL*/
+@media screen and (min-width:801px) and (max-width: 999px)  {
+
+
+}
+
+/*SCREEN ENTRE 601 Y 800 VERDE*/	
+@media screen and (min-width:601px) and (max-width: 800px) {
+
+
+}
+
+/*SCREEN MOVIL 300 a 600 AMARILLO*/
+@media screen  and (min-width: 300px) and (max-width: 600px) {
+
+
+
+
+}
+
+
+/*de boostrap*/
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.formBox{
+	width: 100%;
+	/*margin-top: 90px;
+	padding: 50px;
+	padding-top:10px;*/
+	padding-bottom: 30px;
+}
+.formBox  h1{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-bottom: 50px;
+	text-transform: uppercase;
+	font-size: 35px;
+}/*
+
+.inputBox{
+	position: relative;
+	box-sizing: border-box;
+	margin-bottom: 50px;
+}
+.inputBox .inputText{
+	position: absolute;
+    font-size: 24px;
+    line-height: 50px;
+    transition: .5s;
+    opacity: .5;
+}
+.inputBox .input{
+	position: relative;
+	width: 100%;
+	height: 50px;
+	background: transparent;
+	border: none;
+    outline: none;
+    font-size: 24px;
+    border-bottom: 1px solid rgba(0,0,0,.5);
+
+}
+.focus .inputText{
+	transform: translateY(-30px);
+	font-size: 18px;
+	opacity: 1;
+	color: #00bcd4;
+
+}
+textarea{
+	height: 100px !important;
+}
+.button{
+	width: 100%;
+    height: 50px;
+    border: none;
+    outline: none;
+    background: #03A9F4;
+    color: #fff;
+}*/

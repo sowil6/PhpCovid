@@ -2,5 +2,17 @@
   <PropertyGroup>
     <EnvName>PHPDev</EnvName>
     <RuntimeVersion>7.4</RuntimeVersion>
+    <RootNamespace>PHPWebCovid19</RootNamespace>
+    <WebRoot />
   </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="app\controller\" />
+    <Folder Include="app\rutas\" />
+    <Folder Include="libreria\" />
+    <Folder Include="manager\" />
+    <Folder Include="Beans\" />
+    <Folder Include="Scripts\" />
+    <Folder Include="Styles\" />
+    <Folder Include="vista\" />
+  </ItemGroup>
 </Project>
