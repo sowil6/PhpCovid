@@ -362,7 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-#visual studio
+# visual studio
 PHPWebCovid19.sln
 PHPWebCovid19.phpproj.user
 PHPWebCovid19.phpproj
